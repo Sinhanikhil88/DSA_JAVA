@@ -5,6 +5,6 @@ public class MyArray {
         int arr[] = {1, 4, 3, 4, 5, 6, 7, 8, 9};
         int x = 10;
 
-        System.out.println( Arrays.stream(arr).count());
+
     }
 }
